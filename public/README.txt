@@ -1,0 +1,1 @@
+The hero portrait looks for /profile-image.png. Add the supplied portrait there when the image asset is available in the project workspace.
